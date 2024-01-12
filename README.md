@@ -1,0 +1,2 @@
+# PhotoAppFrontend
+Vite+React frontend
